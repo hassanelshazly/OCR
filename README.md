@@ -1,7 +1,13 @@
 
 # OCR
 
-There are two scripts
+**Dependencies**
+
+Tesseract v4.0 or more
+
+pip install pillow
+pip install pytesseract
+pip install imutils
 
 **Manual Script**
 The script is located in ocr.py file, use the following command to run it
