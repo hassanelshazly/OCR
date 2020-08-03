@@ -9,7 +9,7 @@ import cv2
 image_path = "imgs/example_01.jpg"
 
 # path to input EAST text detector
-east = "frozen_east_text_detection.pb"
+east = "lib/frozen_east_text_detection.pb"
 
 # minimum probability required to inspect a region
 min_confidence = 0.5
